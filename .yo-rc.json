@@ -1,0 +1,43 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.vnpt.icode",
+      "nativeLanguage": "vi"
+    },
+    "jhipsterVersion": "6.10.4",
+    "applicationType": "monolith",
+    "baseName": "icode",
+    "packageName": "com.vnpt.icode",
+    "packageFolder": "com/vnpt/icode",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "oracle",
+    "prodDatabaseType": "oracle",
+    "searchEngine": "elasticsearch",
+    "messageBroker": "kafka",
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": true,
+    "jwtSecretKey": "N2NlOTRmYmRiNmRlNzNhZDg4OTdhZTlkMjM3Mjc3YzZmODdkNjEyYmY1MGJjYzJkM2Q3OWZmMmM5MzhlYTk4OTYxZWNjMTk3MzNhZmExZWIyYWUyYTZkZjBiYjY3M2EzYzdmMGVmN2RlMjk1NTFkYmZkZjRkMGI3OGVmZTQyOTE=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "angularX",
+    "clientTheme": "materia",
+    "clientThemeVariant": "light",
+    "creationTimestamp": 1604024898164,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "nativeLanguage": "vi",
+    "languages": ["vi"],
+    "blueprints": []
+  }
+}
