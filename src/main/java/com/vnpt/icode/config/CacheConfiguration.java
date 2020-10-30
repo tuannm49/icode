@@ -51,6 +51,8 @@ public class CacheConfiguration {
             createCache(cm, com.vnpt.icode.domain.User.class.getName());
             createCache(cm, com.vnpt.icode.domain.Authority.class.getName());
             createCache(cm, com.vnpt.icode.domain.User.class.getName() + ".authorities");
+            createCache(cm, com.vnpt.icode.domain.Table1.class.getName());
+            createCache(cm, com.vnpt.icode.domain.Table2.class.getName());
             // jhipster-needle-ehcache-add-entry
         };
     }

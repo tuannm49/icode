@@ -1,0 +1,11 @@
+
+entity Table1 {
+	id Integer,
+    name String
+}
+
+entity Table2 {
+	id Integer,
+    name String
+}
+

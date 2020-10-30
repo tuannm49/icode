@@ -1,0 +1,23 @@
+{
+  "icodeApp": {
+    "table2": {
+      "home": {
+        "title": "Table 2 S",
+        "createLabel": "Thêm mới một Table 2",
+        "createOrEditLabel": "Thêm mới hoặc cập nhật Table 2",
+        "search": "Tìm Table 2",
+        "notFound": "No Table 2 S found"
+      },
+      "created": "Một Table 2 mới được tạo với định danh {{ param }}",
+      "updated": "Một Table 2 cập nhật với định danh {{ param }}",
+      "deleted": "Một Table 2 đã xóa với định danh {{ param }}",
+      "delete": {
+        "question": "Bạn có chắc là muốn xóa Table 2 {{ id }}?"
+      },
+      "detail": {
+        "title": "Table 2"
+      },
+      "name": "Name"
+    }
+  }
+}
