@@ -1,0 +1,26 @@
+{
+  "icodeApp": {
+    "person": {
+      "home": {
+        "title": "Person",
+        "createLabel": "Thêm mới một Person",
+        "createOrEditLabel": "Thêm mới hoặc cập nhật Person",
+        "search": "Tìm Person",
+        "notFound": "No Person S found"
+      },
+      "created": "Một Person mới được tạo với định danh {{ param }}",
+      "updated": "Một Person cập nhật với định danh {{ param }}",
+      "deleted": "Một Person đã xóa với định danh {{ param }}",
+      "delete": {
+        "question": "Bạn có chắc là muốn xóa Person {{ id }}?"
+      },
+      "detail": {
+        "title": "Person"
+      },
+      "fullName": "fullName",
+      "address": "address",
+      "phoneNumber": "phoneNumber",
+      "email": "email"
+    }
+  }
+}

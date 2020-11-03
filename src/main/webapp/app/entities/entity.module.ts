@@ -12,6 +12,10 @@ import { RouterModule } from '@angular/router';
         path: 'table-2',
         loadChildren: () => import('./table-2/table-2.module').then(m => m.IcodeTable2Module),
       },
+      {
+        path: 'person',
+        loadChildren: () => import('./person/person.module').then(m => m.IcodePersonModule),
+      },
       /* jhipster-needle-add-entity-route - JHipster will add entity modules routes here */
     ]),
   ],

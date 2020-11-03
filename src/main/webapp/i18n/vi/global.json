@@ -9,6 +9,7 @@
         "main": "Thực thể",
         "table1": "Table 1",
         "table2": "Table 2",
+        "person": "Person",
         "jhipster-needle-menu-add-entry": "JHipster will add additional entities here (do not translate!)"
       },
       "account": {
